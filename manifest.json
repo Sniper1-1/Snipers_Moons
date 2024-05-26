@@ -1,0 +1,10 @@
+{
+	"name":"Snipers_Moons",
+	"versionNumber": "0.0.1",
+	"websiteUrl":"https://github.com/Sniper1-1/Snipers_Moons.git",
+	"description":"A couple of (mostly) vanilla-esque moons.",
+	"dependencies":[
+		"IAmBatby-LethalLevelLoader-1.2.4",
+		"AudioKnight-StarlancerAIFix-3.6.0"
+	]
+}
