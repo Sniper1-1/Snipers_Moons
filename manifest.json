@@ -1,7 +1,7 @@
 {
 	"name":"Snipers_Moons",
-	"versionNumber": "0.0.1",
-	"websiteUrl":"https://github.com/Sniper1-1/Snipers_Moons.git",
+	"version_number": "0.0.1",
+	"website_url":"https://github.com/Sniper1-1/Snipers_Moons.git",
 	"description":"A couple of (mostly) vanilla-esque moons.",
 	"dependencies":[
 		"IAmBatby-LethalLevelLoader-1.2.4",
