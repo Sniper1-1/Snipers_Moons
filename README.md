@@ -1,3 +1,4 @@
+
 # Snipers_Moons
 Adds several (mostly) vanilla-like moons. This was a project that I wanted to try my hand at. While they may not be great, I had fun doing it and learned some interesting things about the inner-workings of the game. I still may tweak these moons and have some moon ideas left. Also, while no plans exist currently, I'd like to try an interior too.
 
@@ -5,7 +6,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 <summary><h2>Moons</h2></summary>
 
 <details>
-<summary>69 Phuket (Cost:0)</summary>
+<summary>69 Phuket (Cost: 0)</summary>
   
 > **POPULATION:** Lost <br>
 > **CONDITIONS:** Swampy <br>
@@ -13,7 +14,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 </details>
 
 <details>
-<summary>22 Natit (Cost:710)</summary>
+<summary>22 Natit (Cost: 710)</summary>
   
 > **POPULATION:** None <br>
 > **CONDITIONS:** Abandoned hydro-electric plant in the mountains. <br>
@@ -21,7 +22,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 </details>
 
 <details>
-<summary>Starship-13 (Cost:1000)</summary>
+<summary>Starship-13 (Cost: 1000)</summary>
   
 > **POPULATION:** Radio silent <br>
 > **CONDITIONS:** An unidentified starship has been detected on the edge of the Thistle Nebula. <br>
