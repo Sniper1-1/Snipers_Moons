@@ -26,6 +26,8 @@ FAUNA: Exotic wildlife in shipping.
 
 </details>
 
+</details>
+
 ## Credits
 - [Water asset](https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449)
 - The developers of this mod's dependencies as it literally could not exist with out them.
