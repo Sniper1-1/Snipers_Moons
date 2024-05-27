@@ -3,18 +3,18 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 
 ## Moons 
 **<summary>69 Phuket (Cost:0)</summary>**
->POPULATION: Lost
-CONDITIONS: Swampy 
+>POPULATION: Lost <br>
+CONDITIONS: Swampy <br>
 FAUNA: Ecosystem supports various wildlife.
 
 **<summary>22 Natit (Cost:710)</summary>**
->POPULATION: None
-CONDITIONS: Abandonded hydro-electric plant in the mountains.
+>POPULATION: None <br>
+CONDITIONS: Abandonded hydro-electric plant in the mountains. <br>
 FAUNA: Dangerous entities reside in these hills.
 
 **<summary>Starship-13 (Cost:1000)</summary>**
->POPULATION: Radio silent
-CONDITIONS: An unidentified starship has been detected on the edge of the Thistle Nebula. 
+>POPULATION: Radio silent <br>
+CONDITIONS: An unidentified starship has been detected on the edge of the Thistle Nebula. <br>
 FAUNA: Exotic wildlife in shipping.
 
 ## Credits
