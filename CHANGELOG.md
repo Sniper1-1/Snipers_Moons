@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.0.4</summary>**
+
+ - Added moon pics (pls work now).
+ 
+ </details>
+ 
+
+---
+
 **<details><summary>Version 0.0.3</summary>**
 
  - Added moon pics (I think).

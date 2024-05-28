@@ -1,6 +1,3 @@
-
-
-
 # Snipers_Moons
 Adds several (mostly) vanilla-like moons. This was a project that I wanted to try my hand at. While they may not be great, I had fun doing it and learned some interesting things about the inner-workings of the game. I still may tweak these moons and have some moon ideas left. Also, while no plans exist currently, I'd like to try an interior too. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
 
@@ -13,7 +10,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 > **POPULATION:** Lost <br>
 > **CONDITIONS:** Swampy <br>
 > **FAUNA:** Ecosystem supports various wildlife.
-![View of quicksand and facility](https://lh3.google.com/u/0/d/1_LfBtMNZ8u_xulqxPzAP_HUNTmvbrovT=w1280-h855-iv1)
+![View of quicksand and facility](https://imgur.com/EFGzaEa.png)
 </details>
 
 <details>
@@ -22,7 +19,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 > **POPULATION:** None <br>
 > **CONDITIONS:** Abandoned hydro-electric plant in the mountains. <br>
 > **FAUNA:** Dangerous entities reside in these hills.
-![View of dam and canal](https://lh3.google.com/u/0/d/17a30wWiEvI0Dpx3S614PYvi_FPnBBWXQ=w1280-h855-iv1)
+![View of dam and canal](https://imgur.com/8RoiLH9.png)
 </details>
 
 <details>
@@ -31,7 +28,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 > **POPULATION:** Radio silent <br>
 > **CONDITIONS:** An unidentified starship has been detected on the edge of the Thistle Nebula. <br>
 > **FAUNA:** Exotic wildlife in shipping.
-![Overview of hangar](https://lh3.google.com/u/0/d/1ZZzhNql6SGdN_RRpIbZTxKHnmLEx8CE0=w1280-h855-iv1)
+![Overview of hangar](https://imgur.com/ARIwiCw.png)
 </details>
 
 </details>
