@@ -1,4 +1,21 @@
 
+
+---
+
+**<details><summary>Version 0.0.5</summary>**
+
+ - Item dropship no longer floats in the air when landed.
+ - Fixed a floating rock on Phuket.
+ - Terrain tweaks around Phuket water fire exit.
+ - Phuket quicksand fire exit collision/position fix.
+ - Fixed water clipping through terrain in one pit on Phuket.
+ - Natit/Phuket flood tweaks.
+ - Natit/Phuket visual tweaks.
+ - Accidentally broke but (hopefully) fixed the sky.
+ 
+ </details>
+ 
+
 ---
 
 **<details><summary>Version 0.0.4</summary>**
