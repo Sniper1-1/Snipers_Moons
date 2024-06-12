@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.1.1</summary>**
+
+ - Grass/sand terrain no longer glows.
+ - Valiance interior size and loot tweaks.
+ 
+ </details>
+ 
+---
+
 **<details><summary>Version 0.1.0</summary>**
 
  - Added Valiance as a new moon.
