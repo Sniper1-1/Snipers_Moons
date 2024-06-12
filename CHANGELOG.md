@@ -1,4 +1,20 @@
 
+---
+
+**<details><summary>Version 0.1.0</summary>**
+
+ - Added Valiance as a new moon.
+ - Renamed internal file for consistency.
+ - Added tags to moons.
+ - Natit snow fire exit no longer floats.
+ - Natit has propper footstep sounds on railing.
+ - Added bushes to Phuket and Natit.
+ - Terrain tweaks near Phuket river to address sun clipping (still present but less noticeable from ship).
+ - Grass/sand terrain texture made more 3D (odd glow still present, but this might break it up some).
+ - SS-13 loot tweaks.
+ 
+ </details>
+ 
 
 ---
 

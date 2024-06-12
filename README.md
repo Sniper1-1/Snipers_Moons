@@ -1,3 +1,4 @@
+
 # Snipers_Moons
 Adds several (mostly) vanilla-like moons. This was a project that I wanted to try my hand at. While they may not be great, I had fun doing it and learned some interesting things about the inner-workings of the game. I still may tweak these moons and have some moon ideas left. Also, while no plans exist currently, I'd like to try an interior too. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
 
@@ -11,6 +12,15 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 > **CONDITIONS:** Swampy <br>
 > **FAUNA:** Ecosystem supports various wildlife.
 ![View of quicksand and facility](https://imgur.com/EFGzaEa.png)
+</details>
+
+<details>
+<summary>44 Valiance (Cost: 0)</summary>
+  
+> **POPULATION:** Gone<br>
+> **CONDITIONS:** Rolling hills and valleys.<br>
+> **FAUNA:** A multitude of organisms reside in the valleys.
+![View of facility across lake](https://imgur.com/yyrinrb.png)
 </details>
 
 <details>
