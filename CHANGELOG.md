@@ -1,6 +1,18 @@
 
 ---
 
+**<details><summary>Version 0.1.2</summary>**
+
+ - Valiance terrain adjustments for some issues.
+ - Reduced max outside map objects on Valiance to attempt to address a crash (we'll see).
+ - Fixed invisible quicksand on Valiance.
+ - Loot table tweaks (minor SS-13 and major Valiance. Valiance's is my first attempt at a mostly custom one and likely still needs work).
+ - Increased interior weights for SS-13 (Each vanilla interior weight was 1, giving a 50-50 chance, but this could easily be overpowered by modded interiors. 50-50 remains with just vanilla interiors, and vanilla interiors have a better chance when combined with modded ones now).
+ 
+ </details>
+ 
+---
+
 **<details><summary>Version 0.1.1</summary>**
 
  - Grass/sand terrain no longer glows.
