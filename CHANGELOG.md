@@ -1,6 +1,27 @@
 
 ---
 
+**<details><summary>Version 0.1.3</summary>**
+
+ - Updated to V56.
+ - Fixed sun clipping.
+ - More decor Phuket & SS-13.
+ - Loot table tweaks.
+ - Natit fog tweaks.
+ - Tweaked Natit's middle bridge path (should not be able to cross from ship side to main entrance side without ladder/jetpack/etc which is what I intended originally).
+ - Renumbered 44 Valiance to 45 Valiance (44 belongs to an unreleased vanilla moon. This may require redoing your config).
+ - Widened Valiance bridge some (I think it might be possible to thread the needle with the cruiser to cross the bridge but not sure I'd recommend it on this moon).
+ - Fixed a hole in the hull of SS-13.
+ - New landing pad texture for SS-13 (old one had a weird 3D look to it that I somehow never caught).
+ - Attempted to address weird lighting on SS-13 by increasing the distance shadows are simulated.
+ - Changed SS-13 terminal selection text.
+ - Attempted to boost SS-13 performance by combining groups of boxes into one larger collider instead of each box having its own (not sure if this actually helps much).
+ - README now includes risk level.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.2</summary>**
 
  - Valiance terrain adjustments for some issues.

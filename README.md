@@ -1,4 +1,5 @@
 
+
 # Snipers_Moons
 Adds several (mostly) vanilla-like moons. This was a project that I wanted to try my hand at. While they may not be great, I had fun doing it and learned some interesting things about the inner-workings of the game. I still may tweak these moons and have some moon ideas left. Also, while no plans exist currently, I'd like to try an interior too. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
 
@@ -6,7 +7,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 <summary><h2>Moons</h2></summary>
 
 <details>
-<summary>69 Phuket (Cost: 0)</summary>
+<summary>69 Phuket (Cost: 0, Risk: D)</summary>
   
 > **POPULATION:** Lost <br>
 > **CONDITIONS:** Swampy <br>
@@ -15,7 +16,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 </details>
 
 <details>
-<summary>44 Valiance (Cost: 0)</summary>
+<summary>45 Valiance (Cost: 0, Risk: C)</summary>
   
 > **POPULATION:** Gone<br>
 > **CONDITIONS:** Rolling hills and valleys.<br>
@@ -24,7 +25,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 </details>
 
 <details>
-<summary>22 Natit (Cost: 710)</summary>
+<summary>22 Natit (Cost: 710, Risk: S+)</summary>
   
 > **POPULATION:** None <br>
 > **CONDITIONS:** Abandoned hydro-electric plant in the mountains. <br>
@@ -33,7 +34,7 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 </details>
 
 <details>
-<summary>Starship-13 (Cost: 1000)</summary>
+<summary>Starship-13 (Cost: 1000, Risk: S^2)</summary>
   
 > **POPULATION:** Radio silent <br>
 > **CONDITIONS:** An unidentified starship has been detected on the edge of the Thistle Nebula. <br>
