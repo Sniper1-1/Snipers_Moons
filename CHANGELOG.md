@@ -1,6 +1,22 @@
 
 ---
 
+**<details><summary>Version 0.2.0</summary>**
+
+ - Added 360 Torus as a new moon.
+ - SS-13 now displays weather on terminal confirmation screen and whatever price you've configured it to be instead of a hardcoded price. Additionally, your new balance after purchase is announced.
+ - SS-13 has audio from hangar shield generators.
+ - Turned off lights on fake ships in SS-13.
+ - A pumpkin is now in shiping on SS-13.
+ - Tweaked rocks on Valiance.
+ - Moons now have SnipersMoons tag for filtering in terminal.
+ - Shrunk file sizes (When referencing things like vanilla items, enemies, etc in levels the lethalbundle file would include all those meshes, textures, audio, scripts, etc but LethalLevelLoader is smart enough to allow you to substitute those objects for empty ones and as long as they're named the same (minus an _0 in some cases) it'll dynamically replace the empty ones with the vanilla at runtime).
+ - Updated manifest to prefer a more modern version of LethalLevelLoader.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.3</summary>**
 
  - Updated to V56.
