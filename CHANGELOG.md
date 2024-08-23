@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.2.2</summary>**
+
+ - Fixed a visually broken ladder on Valiance.
+ - Set dependencies to modern versions.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.2.1</summary>**
 
  - Updated to V60.
