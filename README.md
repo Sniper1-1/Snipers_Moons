@@ -1,4 +1,5 @@
 
+
 # Snipers_Moons
 Adds several (mostly) vanilla-like moons. This was a project that I wanted to try my hand at. While they may not be great, I had fun doing it and learned some interesting things about the inner-workings of the game. I still may tweak these moons and have some moon ideas left. Also, while no plans exist currently, I'd like to try an interior too. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
 
@@ -57,5 +58,5 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 - The developers of this mod's dependencies as it literally could not exist without them.
 - [Audio Knight](https://www.youtube.com/@knightofaudio) on YouTube for a handy starting tutorial.
 - [Nomnomab's project patcher](https://github.com/nomnomab/lc-project-patcher) to access vanilla LC through Unity.
-- Those that helped provide information through the [LethalLevelLoader Discord](https://discord.com/channels/1168655651455639582/1193461151636398080)
-- Thunderstore for hosting this mod as I wouldn't know how to distribute without it
+- Those that helped provide information on the modding Discord, mainly through the [LethalLevelLoader Discord](https://discord.com/channels/1168655651455639582/1193461151636398080) and [Dev-moons channel](https://discord.com/channels/1168655651455639582/1263331414271594538).
+- Thunderstore for hosting this mod as I wouldn't know how to distribute without it.

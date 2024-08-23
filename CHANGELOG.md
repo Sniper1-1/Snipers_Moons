@@ -1,6 +1,18 @@
 
 ---
 
+**<details><summary>Version 0.2.1</summary>**
+
+ - Updated to V60.
+ - Sky now better reflects weather and nightime.
+ - Tweaked the outside of SS-13 (planets moved some and stars now present, but they need more work).
+ - README tweaks.
+ - Added a license file.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.2.0</summary>**
 
  - Added 360 Torus as a new moon.
