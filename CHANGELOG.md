@@ -1,6 +1,17 @@
 
 ---
 
+**<details><summary>Version 0.2.3</summary>**
+
+ - Fixed softlock when soccer balls spawned as scrap (turns out they're called "SoccerBall" not "SockerBall").
+ - Fixed Torus fog not covering whole map.
+ - Dropship music now waits until landed (I know some may have liked the early music to know where the ship is landing but since I'm trying to match vanilla this was a bug).
+ - Uses ExtendedMod (behind the scenes stuff).
+ 
+ </details>
+ 
+---
+
 **<details><summary>Version 0.2.2</summary>**
 
  - Fixed a visually broken ladder on Valiance.
