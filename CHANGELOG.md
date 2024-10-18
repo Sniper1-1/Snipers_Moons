@@ -1,6 +1,22 @@
 
 ---
 
+**<details><summary>Version 0.3.0</summary>**
+
+ - Added Timbrance and Tundaria as moons.
+ - Added hidden moons as a category (hidden moons will have some way of discovering their name in-game, like new story logs. Currently one new moon and SS-13 are in this category).
+ - Reduced probability of large rocks spawning on Valiance to reduce chance of path being cut off (might still technically be able to happen, but it's even more unlikely now).
+ - Falling in Natit's canal should trigger a "drowned" cause of death instead of "gravity".
+ - Fixed AI navigation issues with SS-13.
+ - SS-13 ceiling has collision.
+ - Tweaked Natit audio.
+ - Fixed a null reference error on landing/takeoff on Phuket.
+ - Readme updated.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.2.3</summary>**
 
  - Fixed softlock when soccer balls spawned as scrap (turns out they're called "SoccerBall" not "SockerBall").

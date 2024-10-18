@@ -1,7 +1,9 @@
 
 
+
+
 # Snipers_Moons
-Adds several (mostly) vanilla-like moons. This was a project that I wanted to try my hand at. While they may not be great, I had fun doing it and learned some interesting things about the inner-workings of the game. I still may tweak these moons and have some moon ideas left. Also, while no plans exist currently, I'd like to try an interior too. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
+Adds several (mostly) vanilla-like moons to Lethal Company. This was a project that I wanted to try my hand at. While they may not be great, I had fun doing it and learned some interesting things about the inner-workings of the game. I still may tweak these moons and have some moon ideas left. Also, while no plans exist currently, I'd like to try an interior too. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
 
 <details>
 <summary><h2>Moons</h2></summary>
@@ -25,6 +27,15 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 </details>
 
 <details>
+<summary>105 Timbrance (Cost: 60, Risk: B+)</summary>
+  
+> **POPULATION:** Abandoned<br>
+> **CONDITIONS:** An abandoned bunker in the woods.<br>
+> **FAUNA:** Diverse.
+![View of facility from dock](https://imgur.com/wD371uK.png)
+</details>
+
+<details>
 <summary>360 Torus (Cost: 200, Risk: A)</summary>
   
 > **POPULATION:** Abandoned<br>
@@ -34,12 +45,35 @@ Adds several (mostly) vanilla-like moons. This was a project that I wanted to tr
 </details>
 
 <details>
+<summary>60 Tundaria (Cost: 500, Risk: S)</summary>
+  
+> **POPULATION:** Abandoned<br>
+> **CONDITIONS:** An abandoned storage facility deep in the frozen mountains.<br>
+> **FAUNA:** Limited organisms reside within the mountains.
+![View of facility garage](https://imgur.com/BZRbvxg.png)
+</details>
+
+<details>
 <summary>22 Natit (Cost: 710, Risk: S+)</summary>
   
 > **POPULATION:** None <br>
 > **CONDITIONS:** Abandoned hydro-electric plant in the mountains. <br>
 > **FAUNA:** Dangerous entities reside in these hills.
 ![View of dam and canal](https://imgur.com/8RoiLH9.png)
+</details>
+
+</details>
+
+<details>
+<summary><h2>Hidden Moons</h2></summary>
+
+<details>
+<summary>88 Rorm (Cost: 1, Risk: B+)</summary>
+  
+> **POPULATION:** Burried<br>
+> **CONDITIONS:** Abandoned after a series of earthquakes.<br>
+> **FAUNA:** Dominated by a few species.
+![View of facility from ship](https://imgur.com/ABFa3Xb.png)
 </details>
 
 <details>
