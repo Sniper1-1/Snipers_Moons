@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.3.1</summary>**
+
+ - After some consideration, all moons now have a standalone version available for download and are now depencencies of this pack. Their files are no longer directly included. If you use a mod manager (which you should), the dependencies will automatically download with this pack. This should have 2 main benefits. You can pick only the ones you want and drop the bloat, and second if there is a big game update that breaks things I can push an update to each moon as I fix them instead of needing to wait to get them all fixed. 
+ 
+ </details>
+ 
+---
+
 **<details><summary>Version 0.3.0</summary>**
 
  - Added Timbrance and Tundaria as moons.

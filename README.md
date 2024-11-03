@@ -1,8 +1,7 @@
 
-
-
-
 # Snipers_Moons
+This mod itself is essentially empty but has all of my moons as a dependency which means they will automatically download if you download this pack through a mod manager (recommended). 
+
 Adds several (mostly) vanilla-like moons to Lethal Company. This was a project that I wanted to try my hand at. While they may not be great, I had fun doing it and learned some interesting things about the inner-workings of the game. I still may tweak these moons and have some moon ideas left. Also, while no plans exist currently, I'd like to try an interior too. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
 
 <details>
