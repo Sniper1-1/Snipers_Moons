@@ -96,3 +96,4 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 - Those that helped provide information on the modding Discord, mainly through the [LethalLevelLoader Discord](https://discord.com/channels/1168655651455639582/1193461151636398080) and [Dev-moons channel](https://discord.com/channels/1168655651455639582/1263331414271594538).
 - Debugging tools like [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [UnityExplorer](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/Yukieji_UnityExplorer/).
 - Thunderstore for hosting this mod as I wouldn't know how to distribute without it.
+- [Space skybox](https://tools.wwwtyro.net/space-3d/index.html#animationSpeed=1&fov=80&nebulae=true&pointStars=true&resolution=1024&seed=66564767&stars=true&sun=false).

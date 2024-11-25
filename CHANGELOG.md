@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.3.3</summary>**
+
+ - Update to README. 
+ 
+ </details>
+ 
+---
+
 **<details><summary>Version 0.3.2</summary>**
 
  - Update to README. 
