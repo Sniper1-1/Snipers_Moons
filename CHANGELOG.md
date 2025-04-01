@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.3.4</summary>**
+
+ - Readme pics.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.3.3</summary>**
 
  - Update to README. 

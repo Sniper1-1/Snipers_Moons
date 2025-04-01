@@ -14,7 +14,9 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 > **POPULATION:** Lost <br>
 > **CONDITIONS:** Swampy <br>
 > **FAUNA:** Ecosystem supports various wildlife.
-![View of quicksand and facility](https://imgur.com/EFGzaEa.png)
+![View of quicksand and facility](https://imgur.com/DphehIG.png)
+![View of canal and cabin](https://imgur.com/01p4REx.png)
+![View from hill](https://imgur.com/YLEqjQ9.png)
 </details>
 
 <details>
@@ -23,7 +25,9 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 > **POPULATION:** Gone<br>
 > **CONDITIONS:** Rolling hills and valleys.<br>
 > **FAUNA:** A multitude of organisms reside in the valleys.
-![View of facility across lake](https://imgur.com/yyrinrb.png)
+![View of facility across lake](https://imgur.com/x4QR2tR.png)
+![View from bridge](https://imgur.com/0KXB7nz.png)
+![View from dock](https://imgur.com/VD4nIeY.png)
 </details>
 
 <details>
@@ -32,7 +36,9 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 > **POPULATION:** Abandoned<br>
 > **CONDITIONS:** An abandoned bunker in the woods.<br>
 > **FAUNA:** Diverse.
-![View of facility from dock](https://imgur.com/wD371uK.png)
+![View of facility from dock](https://imgur.com/0BZZiGd.png)
+![View of dock from hill](https://imgur.com/ngQtk3E.png)
+![View from tower](https://imgur.com/bJ11qQ5.png)
 </details>
 
 <details>
@@ -41,7 +47,9 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 > **POPULATION:** Abandoned<br>
 > **CONDITIONS:** An old mining facility established in a drained lakebed.<br>
 > **FAUNA:** Various wildlife has gradually returned to the area.
-![View of mine entrance](https://imgur.com/URJfPZz.png)
+![View of mine entrance](https://imgur.com/BCvJgyd.png)
+![View of tunnel](https://imgur.com/UY7Pl1F.png)
+![View from mine entrance](https://imgur.com/NYI1PM1.png)
 </details>
 
 <details>
@@ -50,7 +58,9 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 > **POPULATION:** Abandoned<br>
 > **CONDITIONS:** An abandoned storage facility deep in the frozen mountains.<br>
 > **FAUNA:** Limited organisms reside within the mountains.
-![View of facility garage](https://imgur.com/BZRbvxg.png)
+![View of canyon](https://imgur.com/BSO0QR0.png)
+![View of garage](https://imgur.com/CZ8HSo3.png)
+![View of path](https://imgur.com/g8QWDhz.png)
 </details>
 
 <details>
@@ -59,7 +69,9 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 > **POPULATION:** None <br>
 > **CONDITIONS:** Abandoned hydro-electric plant in the mountains. <br>
 > **FAUNA:** Dangerous entities reside in these hills.
-![View of dam and canal](https://imgur.com/8RoiLH9.png)
+![View of dam and canal](https://imgur.com/plS0oUh.png)
+![View of bridges](https://imgur.com/TBfoIiL.png)
+![View of wall](https://imgur.com/A6lTpHu.png)
 </details>
 
 </details>
@@ -73,7 +85,9 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 > **POPULATION:** Burried<br>
 > **CONDITIONS:** Abandoned after a series of earthquakes.<br>
 > **FAUNA:** Dominated by a few species.
-![View of facility from ship](https://imgur.com/ABFa3Xb.png)
+![View of facility from ship](https://imgur.com/S3zpdV9.png)
+![View of trains](https://imgur.com/n9BxCvc.png)
+![View of hall](https://imgur.com/crOzlAR.png)
 </details>
 
 <details>
@@ -82,7 +96,9 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 > **POPULATION:** Radio silent <br>
 > **CONDITIONS:** An unidentified starship has been detected on the edge of the Thistle Nebula. <br>
 > **FAUNA:** Exotic wildlife in shipping.
-![Overview of hangar](https://imgur.com/ARIwiCw.png)
+![Overview of hangar 1](https://imgur.com/tQzIX8Z.png)
+![Overview of hangar 2](https://imgur.com/rVF6OAA.png)
+![Overview of hangar 3](https://imgur.com/Qix2KVW.png)
 </details>
 
 </details>
