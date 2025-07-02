@@ -1,16 +1,16 @@
 {
 	"name":"Snipers_Moons",
-	"version_number": "0.3.4",
+	"version_number": "0.3.5",
 	"website_url":"https://github.com/Sniper1-1/Snipers_Moons.git",
 	"description":"A couple of (mostly) vanilla-esque moons.",
 	"dependencies":[
-		"Sniper1_1-45_Valiance-0.1.0",
-		"Sniper1_1-60_Tundaria-0.1.0",
-		"Sniper1_1-69_Phuket-0.1.0",
-		"Sniper1_1-88_Rorm-0.1.0",
-		"Sniper1_1-105_Timbrance-0.1.0",
-		"Sniper1_1-360_Torus-0.1.0",
-		"Sniper1_1-Starship_13-0.1.0",
-		"Sniper1_1-22_Natit-0.1.0"
+		"Sniper1_1-45_Valiance-0.1.8",
+		"Sniper1_1-60_Tundaria-0.1.7",
+		"Sniper1_1-69_Phuket-0.1.7",
+		"Sniper1_1-88_Rorm-0.1.9",
+		"Sniper1_1-105_Timbrance-0.1.8",
+		"Sniper1_1-360_Torus-0.1.6",
+		"Sniper1_1-Starship_13-0.1.10",
+		"Sniper1_1-22_Natit-0.1.7"
 	]
 }

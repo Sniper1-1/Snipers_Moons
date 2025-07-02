@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.3.5</summary>**
+
+ - Credits.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.3.4</summary>**
 
  - Readme pics.

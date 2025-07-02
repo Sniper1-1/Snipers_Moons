@@ -113,3 +113,4 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 - Debugging tools like [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [UnityExplorer](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/Yukieji_UnityExplorer/).
 - Thunderstore for hosting this mod as I wouldn't know how to distribute without it.
 - [Space skybox](https://tools.wwwtyro.net/space-3d/index.html#animationSpeed=1&fov=80&nebulae=true&pointStars=true&resolution=1024&seed=66564767&stars=true&sun=false).
+- [Fishing assets](https://skfb.ly/oGLRE).
