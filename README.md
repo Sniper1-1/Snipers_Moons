@@ -12,7 +12,7 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 <summary>69 Phuket (Cost: 0, Risk: D)</summary>
   
 > **POPULATION:** Lost <br>
-> **CONDITIONS:** Swampy <br>
+> **CONDITIONS:** Swampy. Isolated chemical plant. <br>
 > **FAUNA:** Ecosystem supports various wildlife.
 ![View of quicksand and facility](https://imgur.com/DphehIG.png)
 ![View of canal and cabin](https://imgur.com/01p4REx.png)
@@ -104,6 +104,7 @@ Adds several (mostly) vanilla-like moons to Lethal Company. This was a project t
 </details>
 
 ## Credits
+- Zeekerss for developing the game.
 - [Water asset](https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449)
 - Voxx for [TerraMesh](https://discord.com/channels/1168655651455639582/1303914349533990983) tool.
 - The developers of this mod's dependencies as it literally could not exist without them.

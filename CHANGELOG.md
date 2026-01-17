@@ -1,6 +1,16 @@
 
 ---
 
+**<details><summary>Version 1.0.0</summary>**
+
+ - Updated README.
+ - Updated dependencies.
+ - Visual enhancements.
+
+</details>
+
+---
+
 **<details><summary>Version 0.3.5</summary>**
 
  - Credits.
