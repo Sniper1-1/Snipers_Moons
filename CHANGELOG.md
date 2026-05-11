@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 1.0.2</summary>**
+
+ - VR support (Apparently this is something we have to do. I don't have the hardware to test).
+ - Did something with diffusion profiles (Might make vegitation look better).
+
+</details>
+
+---
+
 **<details><summary>Version 1.0.1</summary>**
 
  - Updated for V81.
