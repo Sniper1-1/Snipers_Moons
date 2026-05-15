@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 1.0.3</summary>**
+
+ - A minor change.
+
+</details>
+
+---
+
 **<details><summary>Version 1.0.2</summary>**
 
  - VR support (Apparently this is something we have to do. I don't have the hardware to test).
