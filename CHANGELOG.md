@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 1.0.4</summary>**
+
+ - Minor audio tweaks.
+ - Fixed main entrance door slightly clipping into frame.
+
+</details>
+
+---
+
 **<details><summary>Version 1.0.3</summary>**
 
  - A minor change.
