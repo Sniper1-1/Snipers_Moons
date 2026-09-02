@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 1.0.5</summary>**
+
+ - Updated something, don't worry about it.
+
+</details>
+
+---
+
 **<details><summary>Version 1.0.4</summary>**
 
  - Minor audio tweaks.
